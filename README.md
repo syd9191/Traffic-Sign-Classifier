@@ -1,6 +1,4 @@
-# IT1244_Project
-
-# IT1244: Traffic Sign Classifier Using Neural Networks
+# Traffic Sign Classifier Using Neural Networks
 
 ### By: Evan Ng, Kyi Wai, Mario Hanzel, Sydney Sim
 
